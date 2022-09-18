@@ -1,1 +1,5 @@
-# Logistic_Regression_Bank_Data
+<h1> Logistic_Regression_Bank_Data </h1>
+
+Output variable -> y
+y -> Whether the client has subscribed a term deposit or not 
+Binomial ("yes" or "no")
